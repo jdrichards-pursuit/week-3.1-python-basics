@@ -340,6 +340,4 @@ print("%s is %d years old." % (name, age))
 
 ```markdown
 f-Strings are generally preferred for their readability and performance.
-
-Try these [Exercises](exercises.ipynb) to test your understanding of what you've just learned.
 ```

@@ -1,6 +1,7 @@
 # Python for JavaScript Developers
 
 <img src="./assets/logo.png" alt="Python Logo" width="400">
+
 ## Lesson Objectives
 
 - Understand the basic syntax and structure of Python code

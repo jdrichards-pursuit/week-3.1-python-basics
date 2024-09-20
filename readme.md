@@ -12,3 +12,7 @@ This lesson is designed to help JavaScript developers understand the basic synta
 - Compare Python's control flow statements to JavaScript's
 - Write and execute simple Python programs using functions, control flow, and the print() function
 - Learn how to use f-strings for formatting output in Python
+
+[Go to Lesson](lesson.ipynb)
+
+[Go to Exercises](exercises.ipynb)

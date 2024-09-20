@@ -13,6 +13,18 @@ This lesson is designed to help JavaScript developers understand the basic synta
 - Write and execute simple Python programs using functions, control flow, and the print() function
 - Learn how to use f-strings for formatting output in Python
 
+Remember to:
+
+- create a new virtual environment for this lesson
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+- select the Python interpreter in your IDE
+- choose `install` when asked to install the ipykernel package
+
 [Go to Lesson](lesson.ipynb)
 
 [Go to Exercises](exercises.ipynb)

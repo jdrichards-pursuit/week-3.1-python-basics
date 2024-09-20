@@ -13,7 +13,7 @@ This lesson is designed to help JavaScript developers understand the basic synta
 - Write and execute simple Python programs using functions, control flow, and the print() function
 - Learn how to use f-strings for formatting output in Python
 
-Remember to:
+### Remember to:
 
 - create a new virtual environment for this lesson
 

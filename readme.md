@@ -10,8 +10,9 @@ This lesson is designed to help JavaScript developers understand the basic synta
 - Learn how to define and call functions in Python
 - Introduce control flow statements: if, elif, else
 - Compare Python's control flow statements to JavaScript's
+- Use and, or and not statements
 - Write and execute simple Python programs using functions, control flow, and the print() function
-- Learn how to use f-strings for formatting output in Python
+
 
 ### Remember to:
 

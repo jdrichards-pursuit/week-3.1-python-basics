@@ -26,6 +26,6 @@ source venv/bin/activate
 - select the Python interpreter in your IDE
 - choose `install` when asked to install the ipykernel package
 
-[Go to Lesson](lesson.ipynb)
+[Go to Lesson](https://github.com/jdrichards-pursuit/week-3.1-python-theory/blob/main/lesson.ipynb)
 
-[Go to Exercises](https://github.com/jdrichards-pursuit/skill-sharpening-python-part-one)
+[Go to Exercises](https://github.com/jdrichards-pursuit/week-3.1-python-practice)

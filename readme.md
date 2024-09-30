@@ -26,6 +26,7 @@ source venv/bin/activate
 - select the Python interpreter in your IDE
 - choose `install` when asked to install the ipykernel package
 
+**Note** In the bottom right corner of the screen, hover over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox. This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
 
 ## Links
 
